@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi guys 👋
+> My name is pouria and I am a junior `Front-End` developer
 
-<!--
-**pouria-mobaraki/pouria-mobaraki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+  const information = {
+  
+  name : "Pouria",
+  
+  lastname : "Mobaraki",
+  
+  birthday : "27 September",
+  
+  career : "Front-End Developer"
+}
+```
 
-Here are some ideas to get you started:
+## languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pouria-mobaraki&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
