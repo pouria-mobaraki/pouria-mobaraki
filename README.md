@@ -3,7 +3,7 @@
 # Hi guys 👋
  ## My name is pouria and I am a junior `Front-End` developer 
 
- ```diff
+ ```javascript
   const information = {
   
   name : "Pouria",
