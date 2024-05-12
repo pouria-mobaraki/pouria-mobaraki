@@ -1,9 +1,9 @@
 <div align="center">
 
-### Hi guys 👋
- My name is pouria and I am a junior `Front-End` developer
+# Hi guys 👋
+ ## My name is pouria and I am a junior `Front-End` developer 
 
-```diff
+ ```diff
   const information = {
   
   name : "Pouria",
